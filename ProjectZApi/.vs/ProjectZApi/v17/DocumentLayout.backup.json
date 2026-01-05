@@ -1,0 +1,1760 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.infrastructure\\repositories\\userrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|solutionrelative:projectzapi.infrastructure\\repositories\\userrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE6A24A-2119-4C14-A4DD-9C8DF92CC95C}|ProjectZApi.Application\\ProjectZApi.Application.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.application\\services\\userservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE6A24A-2119-4C14-A4DD-9C8DF92CC95C}|ProjectZApi.Application\\ProjectZApi.Application.csproj|solutionrelative:projectzapi.application\\services\\userservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.domain\\entities\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|solutionrelative:projectzapi.domain\\entities\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.domain\\dtos\\propertytypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|solutionrelative:projectzapi.domain\\dtos\\propertytypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.domain\\dtos\\propertyvisitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|solutionrelative:projectzapi.domain\\dtos\\propertyvisitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.domain\\dtos\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|solutionrelative:projectzapi.domain\\dtos\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.domain\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|solutionrelative:projectzapi.domain\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.domain\\entities\\sellerstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|solutionrelative:projectzapi.domain\\entities\\sellerstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.domain\\entities\\enquiry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|solutionrelative:projectzapi.domain\\entities\\enquiry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.domain\\entities\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|solutionrelative:projectzapi.domain\\entities\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574DE495-DE18-4E32-B53F-06C3A79A316F}|ProjectZApi\\ProjectZApi.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574DE495-DE18-4E32-B53F-06C3A79A316F}|ProjectZApi\\ProjectZApi.csproj|solutionrelative:projectzapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574DE495-DE18-4E32-B53F-06C3A79A316F}|ProjectZApi\\ProjectZApi.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi\\controllers\\sellercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574DE495-DE18-4E32-B53F-06C3A79A316F}|ProjectZApi\\ProjectZApi.csproj|solutionrelative:projectzapi\\controllers\\sellercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.domain\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|solutionrelative:projectzapi.domain\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|solutionrelative:projectzapi.domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.domain\\dtos\\userregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|solutionrelative:projectzapi.domain\\dtos\\userregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.domain\\dtos\\verifyotpdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|solutionrelative:projectzapi.domain\\dtos\\verifyotpdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574DE495-DE18-4E32-B53F-06C3A79A316F}|ProjectZApi\\ProjectZApi.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574DE495-DE18-4E32-B53F-06C3A79A316F}|ProjectZApi\\ProjectZApi.csproj|solutionrelative:projectzapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.domain\\interfaces\\iotprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|solutionrelative:projectzapi.domain\\interfaces\\iotprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.infrastructure\\data\\projectzdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|solutionrelative:projectzapi.infrastructure\\data\\projectzdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.domain\\dtos\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|solutionrelative:projectzapi.domain\\dtos\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574DE495-DE18-4E32-B53F-06C3A79A316F}|ProjectZApi\\ProjectZApi.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi\\controllers\\otpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574DE495-DE18-4E32-B53F-06C3A79A316F}|ProjectZApi\\ProjectZApi.csproj|solutionrelative:projectzapi\\controllers\\otpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE6A24A-2119-4C14-A4DD-9C8DF92CC95C}|ProjectZApi.Application\\ProjectZApi.Application.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.application\\helpers\\smshelper\\smshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE6A24A-2119-4C14-A4DD-9C8DF92CC95C}|ProjectZApi.Application\\ProjectZApi.Application.csproj|solutionrelative:projectzapi.application\\helpers\\smshelper\\smshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.infrastructure\\repositories\\otprepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|solutionrelative:projectzapi.infrastructure\\repositories\\otprepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574DE495-DE18-4E32-B53F-06C3A79A316F}|ProjectZApi\\ProjectZApi.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi\\controllers\\enquirycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574DE495-DE18-4E32-B53F-06C3A79A316F}|ProjectZApi\\ProjectZApi.csproj|solutionrelative:projectzapi\\controllers\\enquirycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE6A24A-2119-4C14-A4DD-9C8DF92CC95C}|ProjectZApi.Application\\ProjectZApi.Application.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.application\\services\\otpservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE6A24A-2119-4C14-A4DD-9C8DF92CC95C}|ProjectZApi.Application\\ProjectZApi.Application.csproj|solutionrelative:projectzapi.application\\services\\otpservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.domain\\interfaces\\iotpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|solutionrelative:projectzapi.domain\\interfaces\\iotpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE6A24A-2119-4C14-A4DD-9C8DF92CC95C}|ProjectZApi.Application\\ProjectZApi.Application.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.application\\projectzapi.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1BE6A24A-2119-4C14-A4DD-9C8DF92CC95C}|ProjectZApi.Application\\ProjectZApi.Application.csproj|solutionrelative:projectzapi.application\\projectzapi.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.domain\\dtos\\sendotpdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|solutionrelative:projectzapi.domain\\dtos\\sendotpdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250417064748_OTP.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectZApi.Infrastructure\\Migrations\\20250417064748_OTP.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.domain\\entities\\otp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|solutionrelative:projectzapi.domain\\entities\\otp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|solutionrelative:projectzapi.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.infrastructure\\repositories\\propertyrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|solutionrelative:projectzapi.infrastructure\\repositories\\propertyrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.infrastructure\\repositories\\locationrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|solutionrelative:projectzapi.infrastructure\\repositories\\locationrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|solutionrelative:projectzapi.domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE6A24A-2119-4C14-A4DD-9C8DF92CC95C}|ProjectZApi.Application\\ProjectZApi.Application.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.application\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE6A24A-2119-4C14-A4DD-9C8DF92CC95C}|ProjectZApi.Application\\ProjectZApi.Application.csproj|solutionrelative:projectzapi.application\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574DE495-DE18-4E32-B53F-06C3A79A316F}|ProjectZApi\\ProjectZApi.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi\\controllers\\propertycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574DE495-DE18-4E32-B53F-06C3A79A316F}|ProjectZApi\\ProjectZApi.csproj|solutionrelative:projectzapi\\controllers\\propertycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574DE495-DE18-4E32-B53F-06C3A79A316F}|ProjectZApi\\ProjectZApi.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574DE495-DE18-4E32-B53F-06C3A79A316F}|ProjectZApi\\ProjectZApi.csproj|solutionrelative:projectzapi\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574DE495-DE18-4E32-B53F-06C3A79A316F}|ProjectZApi\\ProjectZApi.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574DE495-DE18-4E32-B53F-06C3A79A316F}|ProjectZApi\\ProjectZApi.csproj|solutionrelative:projectzapi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE6A24A-2119-4C14-A4DD-9C8DF92CC95C}|ProjectZApi.Application\\ProjectZApi.Application.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.application\\services\\propertyservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE6A24A-2119-4C14-A4DD-9C8DF92CC95C}|ProjectZApi.Application\\ProjectZApi.Application.csproj|solutionrelative:projectzapi.application\\services\\propertyservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.domain\\interfaces\\ipropertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|solutionrelative:projectzapi.domain\\interfaces\\ipropertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.domain\\interfaces\\ipropertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|solutionrelative:projectzapi.domain\\interfaces\\ipropertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.domain\\dtos\\uploadkycdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|solutionrelative:projectzapi.domain\\dtos\\uploadkycdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE6A24A-2119-4C14-A4DD-9C8DF92CC95C}|ProjectZApi.Application\\ProjectZApi.Application.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.application\\services\\propertyvisitservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE6A24A-2119-4C14-A4DD-9C8DF92CC95C}|ProjectZApi.Application\\ProjectZApi.Application.csproj|solutionrelative:projectzapi.application\\services\\propertyvisitservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.domain\\dtos\\uploadrerafiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|solutionrelative:projectzapi.domain\\dtos\\uploadrerafiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.domain\\dtos\\propertydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|solutionrelative:projectzapi.domain\\dtos\\propertydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.domain\\interfaces\\ipropertyvisitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|solutionrelative:projectzapi.domain\\interfaces\\ipropertyvisitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.domain\\interfaces\\ipropertyvisitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|solutionrelative:projectzapi.domain\\interfaces\\ipropertyvisitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.infrastructure\\migrations\\20250416095223_rerasatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|solutionrelative:projectzapi.infrastructure\\migrations\\20250416095223_rerasatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.infrastructure\\repositories\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|solutionrelative:projectzapi.infrastructure\\repositories\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.domain\\interfaces\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|solutionrelative:projectzapi.domain\\interfaces\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.infrastructure\\migrations\\20250415100533_userid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|solutionrelative:projectzapi.infrastructure\\migrations\\20250415100533_userid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.infrastructure\\migrations\\20250415101603_userid2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|solutionrelative:projectzapi.infrastructure\\migrations\\20250415101603_userid2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_E12RIJ4_SQLEXPRESS/Adiasquare/True/SqlTable/dbo.Properties.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.infrastructure\\migrations\\20250415092704_enquiry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|solutionrelative:projectzapi.infrastructure\\migrations\\20250415092704_enquiry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.domain\\entities\\propertytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|solutionrelative:projectzapi.domain\\entities\\propertytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.domain\\entities\\propertyvisit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|solutionrelative:projectzapi.domain\\entities\\propertyvisit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.domain\\dtos\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|solutionrelative:projectzapi.domain\\dtos\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250415095832_LinkUserToProperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectZApi.Infrastructure\\Migrations\\20250415095832_LinkUserToProperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.domain\\dtos\\locationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|solutionrelative:projectzapi.domain\\dtos\\locationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.domain\\dtos\\enquirydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|solutionrelative:projectzapi.domain\\dtos\\enquirydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.infrastructure\\repositories\\enquiryrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|solutionrelative:projectzapi.infrastructure\\repositories\\enquiryrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.infrastructure\\repositories\\propertyvisitrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|solutionrelative:projectzapi.infrastructure\\repositories\\propertyvisitrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.infrastructure\\repositories\\reviewrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|solutionrelative:projectzapi.infrastructure\\repositories\\reviewrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.infrastructure\\repositories\\sellerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|solutionrelative:projectzapi.infrastructure\\repositories\\sellerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.infrastructure\\migrations\\projectzdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|solutionrelative:projectzapi.infrastructure\\migrations\\projectzdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.infrastructure\\migrations\\20250415065655_locationidnullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|solutionrelative:projectzapi.infrastructure\\migrations\\20250415065655_locationidnullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.infrastructure\\migrations\\20250414085835_password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|solutionrelative:projectzapi.infrastructure\\migrations\\20250414085835_password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.infrastructure\\migrations\\20250414084551_users-passwordfieldupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|solutionrelative:projectzapi.infrastructure\\migrations\\20250414084551_users-passwordfieldupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.infrastructure\\migrations\\20250414060951_add propertyvisit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|solutionrelative:projectzapi.infrastructure\\migrations\\20250414060951_add propertyvisit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.infrastructure\\migrations\\20250412130824_reviewtableinpropertyattached.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|solutionrelative:projectzapi.infrastructure\\migrations\\20250412130824_reviewtableinpropertyattached.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.infrastructure\\migrations\\20250412124847_reviewtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|solutionrelative:projectzapi.infrastructure\\migrations\\20250412124847_reviewtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.infrastructure\\migrations\\20250412111229_makefieldsnullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|solutionrelative:projectzapi.infrastructure\\migrations\\20250412111229_makefieldsnullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.infrastructure\\migrations\\20250412084846_configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|solutionrelative:projectzapi.infrastructure\\migrations\\20250412084846_configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.infrastructure\\migrations\\20250412073317_added property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|solutionrelative:projectzapi.infrastructure\\migrations\\20250412073317_added property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.infrastructure\\migrations\\20250412070611_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|solutionrelative:projectzapi.infrastructure\\migrations\\20250412070611_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE6A24A-2119-4C14-A4DD-9C8DF92CC95C}|ProjectZApi.Application\\ProjectZApi.Application.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.application\\services\\enquiryservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE6A24A-2119-4C14-A4DD-9C8DF92CC95C}|ProjectZApi.Application\\ProjectZApi.Application.csproj|solutionrelative:projectzapi.application\\services\\enquiryservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.domain\\interfaces\\ienquiryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|solutionrelative:projectzapi.domain\\interfaces\\ienquiryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.domain\\interfaces\\ienquiryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|solutionrelative:projectzapi.domain\\interfaces\\ienquiryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE6A24A-2119-4C14-A4DD-9C8DF92CC95C}|ProjectZApi.Application\\ProjectZApi.Application.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.application\\services\\locationservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE6A24A-2119-4C14-A4DD-9C8DF92CC95C}|ProjectZApi.Application\\ProjectZApi.Application.csproj|solutionrelative:projectzapi.application\\services\\locationservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.domain\\interfaces\\ilocationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|solutionrelative:projectzapi.domain\\interfaces\\ilocationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.domain\\interfaces\\ilocationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|solutionrelative:projectzapi.domain\\interfaces\\ilocationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250415062135_LinkLocationToProperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectZApi.Infrastructure\\Migrations\\20250415062135_LinkLocationToProperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250415061327_LinkLocationandProperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectZApi.Infrastructure\\Migrations\\20250415061327_LinkLocationandProperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250415061158_LinkLocationandProperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectZApi.Infrastructure\\Migrations\\20250415061158_LinkLocationandProperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250415060313_Locationfixing5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectZApi.Infrastructure\\Migrations\\20250415060313_Locationfixing5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250415055829_Locationfixing4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectZApi.Infrastructure\\Migrations\\20250415055829_Locationfixing4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250415055013_Locationfix3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectZApi.Infrastructure\\Migrations\\20250415055013_Locationfix3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.domain\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|solutionrelative:projectzapi.domain\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.domain\\interfaces\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|solutionrelative:projectzapi.domain\\interfaces\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.domain\\dtos\\sellerlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|solutionrelative:projectzapi.domain\\dtos\\sellerlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.domain\\interfaces\\isellerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|solutionrelative:projectzapi.domain\\interfaces\\isellerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.domain\\interfaces\\isellerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|solutionrelative:projectzapi.domain\\interfaces\\isellerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE6A24A-2119-4C14-A4DD-9C8DF92CC95C}|ProjectZApi.Application\\ProjectZApi.Application.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.application\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE6A24A-2119-4C14-A4DD-9C8DF92CC95C}|ProjectZApi.Application\\ProjectZApi.Application.csproj|solutionrelative:projectzapi.application\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.domain\\interfaces\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|solutionrelative:projectzapi.domain\\interfaces\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.domain\\interfaces\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2EF2FC-CB34-469D-AADE-5EF6E50C1D6A}|ProjectZApi.Domain\\ProjectZApi.Domain.csproj|solutionrelative:projectzapi.domain\\interfaces\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE6A24A-2119-4C14-A4DD-9C8DF92CC95C}|ProjectZApi.Application\\ProjectZApi.Application.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.application\\services\\sellerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE6A24A-2119-4C14-A4DD-9C8DF92CC95C}|ProjectZApi.Application\\ProjectZApi.Application.csproj|solutionrelative:projectzapi.application\\services\\sellerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574DE495-DE18-4E32-B53F-06C3A79A316F}|ProjectZApi\\ProjectZApi.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi\\projectzapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{574DE495-DE18-4E32-B53F-06C3A79A316F}|ProjectZApi\\ProjectZApi.csproj|solutionrelative:projectzapi\\projectzapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250412070130_recreatePropertiesTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectZApi.Infrastructure\\Migrations\\20250412070130_recreatePropertiesTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250412065649_recreatePropertiesTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectZApi.Infrastructure\\Migrations\\20250412065649_recreatePropertiesTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_E12RIJ4_SQLEXPRESS/Adiasquare/True/SqlTable/dbo.Roles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574DE495-DE18-4E32-B53F-06C3A79A316F}|ProjectZApi\\ProjectZApi.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{574DE495-DE18-4E32-B53F-06C3A79A316F}|ProjectZApi\\ProjectZApi.csproj|solutionrelative:projectzapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.infrastructure\\migrations\\20250415073200_adminapproval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|solutionrelative:projectzapi.infrastructure\\migrations\\20250415073200_adminapproval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.infrastructure\\migrations\\20250416120629_kycstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|solutionrelative:projectzapi.infrastructure\\migrations\\20250416120629_kycstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|c:\\users\\admin\\desktop\\projectz\\projectzapi\\projectzapi.infrastructure\\migrations\\20250416110711_rerasatus2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE3E693-FC03-4579-910D-31D21054A73A}|ProjectZApi.Infrastructure\\ProjectZApi.Infrastructure.csproj|solutionrelative:projectzapi.infrastructure\\migrations\\20250416110711_rerasatus2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProjectZApi.Application",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Application\\ProjectZApi.Application.csproj",
+              "RelativeDocumentMoniker": "ProjectZApi.Application\\ProjectZApi.Application.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Application\\ProjectZApi.Application.csproj",
+              "RelativeToolTip": "ProjectZApi.Application\\ProjectZApi.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-17T07:10:08.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResetPasswordDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\DTOs\\ResetPasswordDTO.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Domain\\DTOs\\ResetPasswordDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\DTOs\\ResetPasswordDTO.cs",
+              "RelativeToolTip": "ProjectZApi.Domain\\DTOs\\ResetPasswordDTO.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T09:05:49.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PropertyVisitDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\DTOs\\PropertyVisitDTO.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Domain\\DTOs\\PropertyVisitDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\DTOs\\PropertyVisitDTO.cs",
+              "RelativeToolTip": "ProjectZApi.Domain\\DTOs\\PropertyVisitDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T05:59:27.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PropertyTypeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\DTOs\\PropertyTypeDTO.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Domain\\DTOs\\PropertyTypeDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\DTOs\\PropertyTypeDTO.cs",
+              "RelativeToolTip": "ProjectZApi.Domain\\DTOs\\PropertyTypeDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T13:53:28.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Property.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Entities\\Property.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Domain\\Entities\\Property.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Entities\\Property.cs",
+              "RelativeToolTip": "ProjectZApi.Domain\\Entities\\Property.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAmwEkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T12:48:07.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository .cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Repositories\\UserRepository .cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Infrastructure\\Repositories\\UserRepository .cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Repositories\\UserRepository .cs",
+              "RelativeToolTip": "ProjectZApi.Infrastructure\\Repositories\\UserRepository .cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAGUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T07:33:06.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService .cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Application\\Services\\UserService .cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Application\\Services\\UserService .cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Application\\Services\\UserService .cs",
+              "RelativeToolTip": "ProjectZApi.Application\\Services\\UserService .cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwCsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T07:35:39.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Entities\\Review.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Domain\\Entities\\Review.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Entities\\Review.cs",
+              "RelativeToolTip": "ProjectZApi.Domain\\Entities\\Review.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwBoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T12:43:43.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SellerStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Entities\\SellerStatus.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Domain\\Entities\\SellerStatus.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Entities\\SellerStatus.cs",
+              "RelativeToolTip": "ProjectZApi.Domain\\Entities\\SellerStatus.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T09:00:58.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Enquiry.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Entities\\Enquiry.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Domain\\Entities\\Enquiry.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Entities\\Enquiry.cs",
+              "RelativeToolTip": "ProjectZApi.Domain\\Entities\\Enquiry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:22:22.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Entities\\Location.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Domain\\Entities\\Location.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Entities\\Location.cs",
+              "RelativeToolTip": "ProjectZApi.Domain\\Entities\\Location.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T06:45:21.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ProjectZApi\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ProjectZApi\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAqwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T07:39:36.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Domain\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "ProjectZApi.Domain\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T07:32:14.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SellerController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi\\Controllers\\SellerController.cs",
+              "RelativeDocumentMoniker": "ProjectZApi\\Controllers\\SellerController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi\\Controllers\\SellerController.cs",
+              "RelativeToolTip": "ProjectZApi\\Controllers\\SellerController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T13:15:05.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Domain\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "ProjectZApi.Domain\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwBYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T07:34:47.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserRegistrationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\DTOs\\UserRegistrationDTO.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Domain\\DTOs\\UserRegistrationDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\DTOs\\UserRegistrationDTO.cs",
+              "RelativeToolTip": "ProjectZApi.Domain\\DTOs\\UserRegistrationDTO.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T07:22:14.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "VerifyOTPDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\DTOs\\VerifyOTPDTO.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Domain\\DTOs\\VerifyOTPDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\DTOs\\VerifyOTPDTO.cs",
+              "RelativeToolTip": "ProjectZApi.Domain\\DTOs\\VerifyOTPDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T06:53:31.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectZApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi\\Program.cs",
+              "RelativeToolTip": "ProjectZApi\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T09:03:51.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IOTPRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Interfaces\\IOTPRepository.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Domain\\Interfaces\\IOTPRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Interfaces\\IOTPRepository.cs",
+              "RelativeToolTip": "ProjectZApi.Domain\\Interfaces\\IOTPRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T06:55:52.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProjectZDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Data\\ProjectZDbContext.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Infrastructure\\Data\\ProjectZDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Data\\ProjectZDbContext.cs",
+              "RelativeToolTip": "ProjectZApi.Infrastructure\\Data\\ProjectZDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T08:40:22.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ChangePasswordDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\DTOs\\ChangePasswordDTO.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Domain\\DTOs\\ChangePasswordDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\DTOs\\ChangePasswordDTO.cs",
+              "RelativeToolTip": "ProjectZApi.Domain\\DTOs\\ChangePasswordDTO.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T05:09:01.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OTPController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi\\Controllers\\OTPController.cs",
+              "RelativeDocumentMoniker": "ProjectZApi\\Controllers\\OTPController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi\\Controllers\\OTPController.cs",
+              "RelativeToolTip": "ProjectZApi\\Controllers\\OTPController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvyUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:16:27.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SmsHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Application\\Helpers\\SmsHelper\\SmsHelper.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Application\\Helpers\\SmsHelper\\SmsHelper.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Application\\Helpers\\SmsHelper\\SmsHelper.cs",
+              "RelativeToolTip": "ProjectZApi.Application\\Helpers\\SmsHelper\\SmsHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:10:27.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OTPRepository .cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Repositories\\OTPRepository .cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Infrastructure\\Repositories\\OTPRepository .cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Repositories\\OTPRepository .cs",
+              "RelativeToolTip": "ProjectZApi.Infrastructure\\Repositories\\OTPRepository .cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T06:56:37.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EnquiryController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi\\Controllers\\EnquiryController.cs",
+              "RelativeDocumentMoniker": "ProjectZApi\\Controllers\\EnquiryController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi\\Controllers\\EnquiryController.cs",
+              "RelativeToolTip": "ProjectZApi\\Controllers\\EnquiryController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:38:56.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OTPService .cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Application\\Services\\OTPService .cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Application\\Services\\OTPService .cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Application\\Services\\OTPService .cs",
+              "RelativeToolTip": "ProjectZApi.Application\\Services\\OTPService .cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvxwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:15:08.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IOTPService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Interfaces\\IOTPService.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Domain\\Interfaces\\IOTPService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Interfaces\\IOTPService.cs",
+              "RelativeToolTip": "ProjectZApi.Domain\\Interfaces\\IOTPService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:14:31.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SendOTPDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\DTOs\\SendOTPDTO.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Domain\\DTOs\\SendOTPDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\DTOs\\SendOTPDTO.cs",
+              "RelativeToolTip": "ProjectZApi.Domain\\DTOs\\SendOTPDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T06:50:53.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20250417064748_OTP.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250417064748_OTP.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Infrastructure\\Migrations\\20250417064748_OTP.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250417064748_OTP.cs",
+              "RelativeToolTip": "ProjectZApi.Infrastructure\\Migrations\\20250417064748_OTP.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T06:47:49.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OTP.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Entities\\OTP.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Domain\\Entities\\OTP.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Entities\\OTP.cs",
+              "RelativeToolTip": "ProjectZApi.Domain\\Entities\\OTP.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T06:22:04.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "LocationRepository .cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Repositories\\LocationRepository .cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Infrastructure\\Repositories\\LocationRepository .cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Repositories\\LocationRepository .cs",
+              "RelativeToolTip": "ProjectZApi.Infrastructure\\Repositories\\LocationRepository .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:03:41.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PropertyRepository .cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Repositories\\PropertyRepository .cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Infrastructure\\Repositories\\PropertyRepository .cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Repositories\\PropertyRepository .cs",
+              "RelativeToolTip": "ProjectZApi.Infrastructure\\Repositories\\PropertyRepository .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T08:56:50.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "ProjectZApi.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAA/wCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T09:05:03.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Domain\\Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Entities\\Role.cs",
+              "RelativeToolTip": "ProjectZApi.Domain\\Entities\\Role.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T08:45:55.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Application\\Services\\AdminService.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Application\\Services\\AdminService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Application\\Services\\AdminService.cs",
+              "RelativeToolTip": "ProjectZApi.Application\\Services\\AdminService.cs",
+              "ViewState": "AgIAABwAAADAzMzMzMw9wCIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T09:37:47.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PropertyController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi\\Controllers\\PropertyController.cs",
+              "RelativeDocumentMoniker": "ProjectZApi\\Controllers\\PropertyController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi\\Controllers\\PropertyController.cs",
+              "RelativeToolTip": "ProjectZApi\\Controllers\\PropertyController.cs",
+              "ViewState": "AgIAAEIAAABAzczMzMwwwKMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T09:08:44.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "LocationController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi\\Controllers\\LocationController.cs",
+              "RelativeDocumentMoniker": "ProjectZApi\\Controllers\\LocationController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi\\Controllers\\LocationController.cs",
+              "RelativeToolTip": "ProjectZApi\\Controllers\\LocationController.cs",
+              "ViewState": "AgIAABAAAACAZmZmZmYswCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:13:45.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "ProjectZApi\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "ProjectZApi\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAC0AAACgmZmZmZk1wCsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T09:44:58.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "PropertyService .cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Application\\Services\\PropertyService .cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Application\\Services\\PropertyService .cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Application\\Services\\PropertyService .cs",
+              "RelativeToolTip": "ProjectZApi.Application\\Services\\PropertyService .cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAIwIUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T09:03:59.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IPropertyService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Interfaces\\IPropertyService.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Domain\\Interfaces\\IPropertyService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Interfaces\\IPropertyService.cs",
+              "RelativeToolTip": "ProjectZApi.Domain\\Interfaces\\IPropertyService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA5wBsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T09:02:46.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IPropertyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Interfaces\\IPropertyRepository.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Domain\\Interfaces\\IPropertyRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Interfaces\\IPropertyRepository.cs",
+              "RelativeToolTip": "ProjectZApi.Domain\\Interfaces\\IPropertyRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA5wBoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T08:55:56.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UploadKycDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\DTOs\\UploadKycDTO.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Domain\\DTOs\\UploadKycDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\DTOs\\UploadKycDTO.cs",
+              "RelativeToolTip": "ProjectZApi.Domain\\DTOs\\UploadKycDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T12:07:01.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "20250416120629_KYCStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250416120629_KYCStatus.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Infrastructure\\Migrations\\20250416120629_KYCStatus.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250416120629_KYCStatus.cs",
+              "RelativeToolTip": "ProjectZApi.Infrastructure\\Migrations\\20250416120629_KYCStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T12:06:29.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "20250416110711_RERASatus2.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250416110711_RERASatus2.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Infrastructure\\Migrations\\20250416110711_RERASatus2.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250416110711_RERASatus2.cs",
+              "RelativeToolTip": "ProjectZApi.Infrastructure\\Migrations\\20250416110711_RERASatus2.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:07:11.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "PropertyVisitService .cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Application\\Services\\PropertyVisitService .cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Application\\Services\\PropertyVisitService .cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Application\\Services\\PropertyVisitService .cs",
+              "RelativeToolTip": "ProjectZApi.Application\\Services\\PropertyVisitService .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T06:13:15.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UploadReraFileDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\DTOs\\UploadReraFileDTO.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Domain\\DTOs\\UploadReraFileDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\DTOs\\UploadReraFileDTO.cs",
+              "RelativeToolTip": "ProjectZApi.Domain\\DTOs\\UploadReraFileDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T10:23:25.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IPropertyVisitService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Interfaces\\IPropertyVisitService.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Domain\\Interfaces\\IPropertyVisitService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Interfaces\\IPropertyVisitService.cs",
+              "RelativeToolTip": "ProjectZApi.Domain\\Interfaces\\IPropertyVisitService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T06:12:11.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "PropertyDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\DTOs\\PropertyDTO.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Domain\\DTOs\\PropertyDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\DTOs\\PropertyDTO.cs",
+              "RelativeToolTip": "ProjectZApi.Domain\\DTOs\\PropertyDTO.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAxwDsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T09:36:50.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IPropertyVisitRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Interfaces\\IPropertyVisitRepository.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Domain\\Interfaces\\IPropertyVisitRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Interfaces\\IPropertyVisitRepository.cs",
+              "RelativeToolTip": "ProjectZApi.Domain\\Interfaces\\IPropertyVisitRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAsAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T06:00:19.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20250416095223_RERASatus.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250416095223_RERASatus.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Infrastructure\\Migrations\\20250416095223_RERASatus.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250416095223_RERASatus.cs",
+              "RelativeToolTip": "ProjectZApi.Infrastructure\\Migrations\\20250416095223_RERASatus.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwEQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T09:52:24.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AdminRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Repositories\\AdminRepository.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Infrastructure\\Repositories\\AdminRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Repositories\\AdminRepository.cs",
+              "RelativeToolTip": "ProjectZApi.Infrastructure\\Repositories\\AdminRepository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwC0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T09:22:37.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IAdminRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Interfaces\\IAdminRepository.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Domain\\Interfaces\\IAdminRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Interfaces\\IAdminRepository.cs",
+              "RelativeToolTip": "ProjectZApi.Domain\\Interfaces\\IAdminRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T09:18:59.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20250415100533_UserId.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250415100533_UserId.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Infrastructure\\Migrations\\20250415100533_UserId.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250415100533_UserId.cs",
+              "RelativeToolTip": "ProjectZApi.Infrastructure\\Migrations\\20250415100533_UserId.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T10:05:33.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "dbo.Properties.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_E12RIJ4_SQLEXPRESS/Adiasquare/True/SqlTable/dbo.Properties.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/DESKTOP_E12RIJ4_SQLEXPRESS/Adiasquare/True/SqlTable/dbo.Properties.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-15T10:13:42.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20250415101603_UserId2.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250415101603_UserId2.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Infrastructure\\Migrations\\20250415101603_UserId2.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250415101603_UserId2.cs",
+              "RelativeToolTip": "ProjectZApi.Infrastructure\\Migrations\\20250415101603_UserId2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T10:16:03.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "PropertyType.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Entities\\PropertyType.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Domain\\Entities\\PropertyType.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Entities\\PropertyType.cs",
+              "RelativeToolTip": "ProjectZApi.Domain\\Entities\\PropertyType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T12:42:20.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "20250415092704_Enquiry.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250415092704_Enquiry.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Infrastructure\\Migrations\\20250415092704_Enquiry.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250415092704_Enquiry.cs",
+              "RelativeToolTip": "ProjectZApi.Infrastructure\\Migrations\\20250415092704_Enquiry.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:27:04.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "PropertyVisit.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Entities\\PropertyVisit.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Domain\\Entities\\PropertyVisit.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Entities\\PropertyVisit.cs",
+              "RelativeToolTip": "ProjectZApi.Domain\\Entities\\PropertyVisit.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T05:57:50.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ReviewDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\DTOs\\ReviewDTO.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Domain\\DTOs\\ReviewDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\DTOs\\ReviewDTO.cs",
+              "RelativeToolTip": "ProjectZApi.Domain\\DTOs\\ReviewDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T12:45:48.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "20250415095832_LinkUserToProperty.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250415095832_LinkUserToProperty.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Infrastructure\\Migrations\\20250415095832_LinkUserToProperty.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250415095832_LinkUserToProperty.cs",
+              "RelativeToolTip": "ProjectZApi.Infrastructure\\Migrations\\20250415095832_LinkUserToProperty.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:58:32.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "LocationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\DTOs\\LocationDTO.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Domain\\DTOs\\LocationDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\DTOs\\LocationDTO.cs",
+              "RelativeToolTip": "ProjectZApi.Domain\\DTOs\\LocationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:01:54.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "EnquiryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\DTOs\\EnquiryDTO.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Domain\\DTOs\\EnquiryDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\DTOs\\EnquiryDTO.cs",
+              "RelativeToolTip": "ProjectZApi.Domain\\DTOs\\EnquiryDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:28:24.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "EnquiryRepository .cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Repositories\\EnquiryRepository .cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Infrastructure\\Repositories\\EnquiryRepository .cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Repositories\\EnquiryRepository .cs",
+              "RelativeToolTip": "ProjectZApi.Infrastructure\\Repositories\\EnquiryRepository .cs",
+              "ViewState": "AgIAAAQAAABgZmZmZmYkwB0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:30:25.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "PropertyVisitRepository .cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Repositories\\PropertyVisitRepository .cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Infrastructure\\Repositories\\PropertyVisitRepository .cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Repositories\\PropertyVisitRepository .cs",
+              "RelativeToolTip": "ProjectZApi.Infrastructure\\Repositories\\PropertyVisitRepository .cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T06:01:49.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ReviewRepository .cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Repositories\\ReviewRepository .cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Infrastructure\\Repositories\\ReviewRepository .cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Repositories\\ReviewRepository .cs",
+              "RelativeToolTip": "ProjectZApi.Infrastructure\\Repositories\\ReviewRepository .cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T12:50:44.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "SellerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Repositories\\SellerRepository.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Infrastructure\\Repositories\\SellerRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Repositories\\SellerRepository.cs",
+              "RelativeToolTip": "ProjectZApi.Infrastructure\\Repositories\\SellerRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwBUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T13:08:03.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ProjectZDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\ProjectZDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Infrastructure\\Migrations\\ProjectZDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\ProjectZDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ProjectZApi.Infrastructure\\Migrations\\ProjectZDbContextModelSnapshot.cs",
+              "ViewState": "AgIAALwAAAAAAAAAAAAQwN0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T07:28:25.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "20250415065655_LocationIdNullable.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250415065655_LocationIdNullable.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Infrastructure\\Migrations\\20250415065655_LocationIdNullable.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250415065655_LocationIdNullable.cs",
+              "RelativeToolTip": "ProjectZApi.Infrastructure\\Migrations\\20250415065655_LocationIdNullable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T06:56:56.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "20250414085835_Password.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250414085835_Password.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Infrastructure\\Migrations\\20250414085835_Password.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250414085835_Password.cs",
+              "RelativeToolTip": "ProjectZApi.Infrastructure\\Migrations\\20250414085835_Password.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T08:58:35.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "20250414084551_Users-Passwordfieldupdate.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250414084551_Users-Passwordfieldupdate.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Infrastructure\\Migrations\\20250414084551_Users-Passwordfieldupdate.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250414084551_Users-Passwordfieldupdate.cs",
+              "RelativeToolTip": "ProjectZApi.Infrastructure\\Migrations\\20250414084551_Users-Passwordfieldupdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T08:45:52.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "20250414060951_Add PropertyVisit.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250414060951_Add PropertyVisit.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Infrastructure\\Migrations\\20250414060951_Add PropertyVisit.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250414060951_Add PropertyVisit.cs",
+              "RelativeToolTip": "ProjectZApi.Infrastructure\\Migrations\\20250414060951_Add PropertyVisit.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T06:09:52.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "20250412130824_ReviewTableinpropertyattached.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250412130824_ReviewTableinpropertyattached.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Infrastructure\\Migrations\\20250412130824_ReviewTableinpropertyattached.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250412130824_ReviewTableinpropertyattached.cs",
+              "RelativeToolTip": "ProjectZApi.Infrastructure\\Migrations\\20250412130824_ReviewTableinpropertyattached.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:08:24.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "20250412124847_ReviewTable.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250412124847_ReviewTable.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Infrastructure\\Migrations\\20250412124847_ReviewTable.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250412124847_ReviewTable.cs",
+              "RelativeToolTip": "ProjectZApi.Infrastructure\\Migrations\\20250412124847_ReviewTable.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T12:48:47.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "20250412111229_MakeFieldsNullable.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250412111229_MakeFieldsNullable.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Infrastructure\\Migrations\\20250412111229_MakeFieldsNullable.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250412111229_MakeFieldsNullable.cs",
+              "RelativeToolTip": "ProjectZApi.Infrastructure\\Migrations\\20250412111229_MakeFieldsNullable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T11:12:30.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "20250412084846_Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250412084846_Configuration.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Infrastructure\\Migrations\\20250412084846_Configuration.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250412084846_Configuration.cs",
+              "RelativeToolTip": "ProjectZApi.Infrastructure\\Migrations\\20250412084846_Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T08:48:46.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "20250412073317_Added Property.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250412073317_Added Property.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Infrastructure\\Migrations\\20250412073317_Added Property.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250412073317_Added Property.cs",
+              "RelativeToolTip": "ProjectZApi.Infrastructure\\Migrations\\20250412073317_Added Property.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T07:33:17.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "20250412070611_Initial Migration.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250412070611_Initial Migration.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Infrastructure\\Migrations\\20250412070611_Initial Migration.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250412070611_Initial Migration.cs",
+              "RelativeToolTip": "ProjectZApi.Infrastructure\\Migrations\\20250412070611_Initial Migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T07:06:11.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "IEnquiryService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Interfaces\\IEnquiryService.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Domain\\Interfaces\\IEnquiryService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Interfaces\\IEnquiryService.cs",
+              "RelativeToolTip": "ProjectZApi.Domain\\Interfaces\\IEnquiryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:32:58.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "EnquiryService .cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Application\\Services\\EnquiryService .cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Application\\Services\\EnquiryService .cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Application\\Services\\EnquiryService .cs",
+              "RelativeToolTip": "ProjectZApi.Application\\Services\\EnquiryService .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:33:33.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "IEnquiryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Interfaces\\IEnquiryRepository.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Domain\\Interfaces\\IEnquiryRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Interfaces\\IEnquiryRepository.cs",
+              "RelativeToolTip": "ProjectZApi.Domain\\Interfaces\\IEnquiryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:29:42.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "20250415073200_AdminApproval.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250415073200_AdminApproval.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Infrastructure\\Migrations\\20250415073200_AdminApproval.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250415073200_AdminApproval.cs",
+              "RelativeToolTip": "ProjectZApi.Infrastructure\\Migrations\\20250415073200_AdminApproval.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:32:00.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "ILocationService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Interfaces\\ILocationService.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Domain\\Interfaces\\ILocationService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Interfaces\\ILocationService.cs",
+              "RelativeToolTip": "ProjectZApi.Domain\\Interfaces\\ILocationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:09:14.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "LocationService .cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Application\\Services\\LocationService .cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Application\\Services\\LocationService .cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Application\\Services\\LocationService .cs",
+              "RelativeToolTip": "ProjectZApi.Application\\Services\\LocationService .cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:10:08.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "ILocationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Interfaces\\ILocationRepository.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Domain\\Interfaces\\ILocationRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Interfaces\\ILocationRepository.cs",
+              "RelativeToolTip": "ProjectZApi.Domain\\Interfaces\\ILocationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:02:52.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "20250415062135_LinkLocationToProperty.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250415062135_LinkLocationToProperty.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Infrastructure\\Migrations\\20250415062135_LinkLocationToProperty.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250415062135_LinkLocationToProperty.cs",
+              "RelativeToolTip": "ProjectZApi.Infrastructure\\Migrations\\20250415062135_LinkLocationToProperty.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T06:21:35.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "20250415061327_LinkLocationandProperty.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250415061327_LinkLocationandProperty.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Infrastructure\\Migrations\\20250415061327_LinkLocationandProperty.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250415061327_LinkLocationandProperty.cs",
+              "RelativeToolTip": "ProjectZApi.Infrastructure\\Migrations\\20250415061327_LinkLocationandProperty.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T06:13:28.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "20250415061158_LinkLocationandProperty.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250415061158_LinkLocationandProperty.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Infrastructure\\Migrations\\20250415061158_LinkLocationandProperty.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250415061158_LinkLocationandProperty.cs",
+              "RelativeToolTip": "ProjectZApi.Infrastructure\\Migrations\\20250415061158_LinkLocationandProperty.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T06:11:58.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "20250415060313_Locationfixing5.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250415060313_Locationfixing5.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Infrastructure\\Migrations\\20250415060313_Locationfixing5.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250415060313_Locationfixing5.cs",
+              "RelativeToolTip": "ProjectZApi.Infrastructure\\Migrations\\20250415060313_Locationfixing5.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T06:03:13.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "20250415055829_Locationfixing4.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250415055829_Locationfixing4.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Infrastructure\\Migrations\\20250415055829_Locationfixing4.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250415055829_Locationfixing4.cs",
+              "RelativeToolTip": "ProjectZApi.Infrastructure\\Migrations\\20250415055829_Locationfixing4.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T05:58:29.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "20250415055013_Locationfix3.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250415055013_Locationfix3.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Infrastructure\\Migrations\\20250415055013_Locationfix3.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250415055013_Locationfix3.cs",
+              "RelativeToolTip": "ProjectZApi.Infrastructure\\Migrations\\20250415055013_Locationfix3.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T05:50:14.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Domain\\DTOs\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "ProjectZApi.Domain\\DTOs\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T10:36:02.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "IAdminService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Interfaces\\IAdminService.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Domain\\Interfaces\\IAdminService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Interfaces\\IAdminService.cs",
+              "RelativeToolTip": "ProjectZApi.Domain\\Interfaces\\IAdminService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T09:34:46.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "SellerLoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\DTOs\\SellerLoginDTO.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Domain\\DTOs\\SellerLoginDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\DTOs\\SellerLoginDTO.cs",
+              "RelativeToolTip": "ProjectZApi.Domain\\DTOs\\SellerLoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T13:28:28.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "ISellerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Interfaces\\ISellerRepository.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Domain\\Interfaces\\ISellerRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Interfaces\\ISellerRepository.cs",
+              "RelativeToolTip": "ProjectZApi.Domain\\Interfaces\\ISellerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T13:06:47.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "ISellerServices.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Interfaces\\ISellerServices.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Domain\\Interfaces\\ISellerServices.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Interfaces\\ISellerServices.cs",
+              "RelativeToolTip": "ProjectZApi.Domain\\Interfaces\\ISellerServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T13:07:31.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "ReviewService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Application\\Services\\ReviewService.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Application\\Services\\ReviewService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Application\\Services\\ReviewService.cs",
+              "RelativeToolTip": "ProjectZApi.Application\\Services\\ReviewService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T12:53:44.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "IReviewRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Interfaces\\IReviewRepository.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Domain\\Interfaces\\IReviewRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Interfaces\\IReviewRepository.cs",
+              "RelativeToolTip": "ProjectZApi.Domain\\Interfaces\\IReviewRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T12:49:45.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "IReviewService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Interfaces\\IReviewService.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Domain\\Interfaces\\IReviewService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Domain\\Interfaces\\IReviewService.cs",
+              "RelativeToolTip": "ProjectZApi.Domain\\Interfaces\\IReviewService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T12:53:04.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "SellerService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Application\\Services\\SellerService.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Application\\Services\\SellerService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Application\\Services\\SellerService.cs",
+              "RelativeToolTip": "ProjectZApi.Application\\Services\\SellerService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T13:09:51.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "ProjectZApi.http",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi\\ProjectZApi.http",
+              "RelativeDocumentMoniker": "ProjectZApi\\ProjectZApi.http",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi\\ProjectZApi.http",
+              "RelativeToolTip": "ProjectZApi\\ProjectZApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-12T07:05:08.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "20250412070130_recreatePropertiesTable.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250412070130_recreatePropertiesTable.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Infrastructure\\Migrations\\20250412070130_recreatePropertiesTable.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250412070130_recreatePropertiesTable.cs",
+              "RelativeToolTip": "ProjectZApi.Infrastructure\\Migrations\\20250412070130_recreatePropertiesTable.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T07:01:31.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "20250412065649_recreatePropertiesTable.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250412065649_recreatePropertiesTable.cs",
+              "RelativeDocumentMoniker": "ProjectZApi.Infrastructure\\Migrations\\20250412065649_recreatePropertiesTable.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi.Infrastructure\\Migrations\\20250412065649_recreatePropertiesTable.cs",
+              "RelativeToolTip": "ProjectZApi.Infrastructure\\Migrations\\20250412065649_recreatePropertiesTable.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T06:56:49.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "dbo.Roles.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_E12RIJ4_SQLEXPRESS/Adiasquare/True/SqlTable/dbo.Roles.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/DESKTOP_E12RIJ4_SQLEXPRESS/Adiasquare/True/SqlTable/dbo.Roles.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-11T12:06:47.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi\\appsettings.json",
+              "RelativeDocumentMoniker": "ProjectZApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ProjectZ\\ProjectZApi\\ProjectZApi\\appsettings.json",
+              "RelativeToolTip": "ProjectZApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-11T09:03:06.993Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

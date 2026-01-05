@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\ProjectZ\ProjectZApi\ProjectZApi.Application\bin\Debug\net8.0\ProjectZApi.Application.deps.json
+C:\Users\Admin\Desktop\ProjectZ\ProjectZApi\ProjectZApi.Application\bin\Debug\net8.0\ProjectZApi.Application.runtimeconfig.json
+C:\Users\Admin\Desktop\ProjectZ\ProjectZApi\ProjectZApi.Application\bin\Debug\net8.0\ProjectZApi.Application.dll
+C:\Users\Admin\Desktop\ProjectZ\ProjectZApi\ProjectZApi.Application\bin\Debug\net8.0\ProjectZApi.Application.pdb
+C:\Users\Admin\Desktop\ProjectZ\ProjectZApi\ProjectZApi.Application\bin\Debug\net8.0\ProjectZApi.Domain.dll
+C:\Users\Admin\Desktop\ProjectZ\ProjectZApi\ProjectZApi.Application\bin\Debug\net8.0\ProjectZApi.Domain.pdb
+C:\Users\Admin\Desktop\ProjectZ\ProjectZApi\ProjectZApi.Application\obj\Debug\net8.0\ProjectZApi.Application.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ProjectZ\ProjectZApi\ProjectZApi.Application\obj\Debug\net8.0\ProjectZApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ProjectZ\ProjectZApi\ProjectZApi.Application\obj\Debug\net8.0\ProjectZApi.Application.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ProjectZ\ProjectZApi\ProjectZApi.Application\obj\Debug\net8.0\ProjectZApi.Application.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ProjectZ\ProjectZApi\ProjectZApi.Application\obj\Debug\net8.0\ProjectZApi.Application.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ProjectZ\ProjectZApi\ProjectZApi.Application\obj\Debug\net8.0\ProjectZ.41B81D49.Up2Date
+C:\Users\Admin\Desktop\ProjectZ\ProjectZApi\ProjectZApi.Application\obj\Debug\net8.0\ProjectZApi.Application.dll
+C:\Users\Admin\Desktop\ProjectZ\ProjectZApi\ProjectZApi.Application\obj\Debug\net8.0\refint\ProjectZApi.Application.dll
+C:\Users\Admin\Desktop\ProjectZ\ProjectZApi\ProjectZApi.Application\obj\Debug\net8.0\ProjectZApi.Application.pdb
+C:\Users\Admin\Desktop\ProjectZ\ProjectZApi\ProjectZApi.Application\obj\Debug\net8.0\ProjectZApi.Application.genruntimeconfig.cache
+C:\Users\Admin\Desktop\ProjectZ\ProjectZApi\ProjectZApi.Application\obj\Debug\net8.0\ref\ProjectZApi.Application.dll

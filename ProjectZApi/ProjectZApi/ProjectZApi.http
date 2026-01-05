@@ -1,0 +1,6 @@
+@ProjectZApi_HostAddress = http://localhost:5093
+
+GET {{ProjectZApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
